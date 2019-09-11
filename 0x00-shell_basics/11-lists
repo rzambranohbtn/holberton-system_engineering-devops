@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls __ls__
+wc -l 11-lists
