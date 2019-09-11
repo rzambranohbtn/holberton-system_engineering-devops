@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l 11-lists
+ls -la . .. /boot 
